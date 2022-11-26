@@ -1,6 +1,4 @@
 from random import randint
-
-
 ran= randint(1, 1000)
 print("Отгадайте число от 1 до 1000")
 while (True):
